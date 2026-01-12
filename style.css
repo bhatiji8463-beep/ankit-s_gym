@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background: #f4f4f4;
+}
+
+nav {
+    background: #111;
+    padding: 15px;
+}
+
+nav a {
+    color: white;
+    margin: 15px;
+    text-decoration: none;
+}
+
+.banner {
+    background: url('https://images.unsplash.com/photo-1558611848-73f7eb4001a1') center/cover;
+    height: 350px;
+    color: white;
+    text-align: center;
+    padding-top: 120px;
+}
+
+.container {
+    width: 90%;
+    margin: auto;
+}
+
+button {
+    padding: 10px 20px;
+    background: #e91e63;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+form input, form select {
+    width: 100%;
+    padding: 10px;
+    margin: 8px 0;
+}
+.login{
+    background-color: grey;
+}
