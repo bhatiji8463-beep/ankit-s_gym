@@ -111,7 +111,7 @@ nav a {
 
 <div class="container" id="contact">
     <h2>Contact Us</h2>
-    <iframe    <i class="fa-brands fa-instagram"></i></iframe>
+       <i class="fa-brands fa-instagram"></i>
     <i class="fa-brands fa-whatsapp"></i>
     <i class="fa-brands fa-facebook"></i>
 
@@ -130,3 +130,4 @@ nav a {
 
 </body>
 </html>
+
