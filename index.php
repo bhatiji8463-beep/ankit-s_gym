@@ -3,8 +3,7 @@
 <html>
 <head>
     <style>
-        /* LOGO FIX */
-/* LOGO */
+        
 /* LOGO */
 .logo {
     width: 150px;
@@ -130,4 +129,5 @@ nav a {
 
 </body>
 </html>
+
 
